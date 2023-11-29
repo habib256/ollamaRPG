@@ -1,16 +1,20 @@
 import json
 import requests
 
+# Ouvrir et lire le fichier
+with open('DAN.md', 'r') as file:
+    data = file.read()
+
+# Préparer les données pour la requête POST
+payload = {
+    'model': 'zephyr',
+    'prompt': data,
+}
+
 model = 'zephyr'
 
 def generate(user_input, context):
-    r = requests.post('http://127.0.0.1:11434/api/generate',
-    json={
-        'model': model,
-        'prompt': user_input,
-        'context': context,
-    },
-    stream=True)
+    r = requests.post('http://127.0.0.1:11434/api/generate', json=payload)
     r.raise_for_status()
 
     for line in r.iter_lines():

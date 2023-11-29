@@ -1,0 +1,552 @@
+That is why you should take a look at 30 Best Stable Diffusion Prompts to get you started in the vast creative world of text-to-image AI.
+
+Released in 2022, Stable Diffusion is an advanced deep learning model that specializes in text-to-image generation. Developed by researchers from the CompVis Group at Ludwig Maximilian University of Munich and Runway, it offers the ability to produce highly detailed images based on text descriptions. However, its capabilities extend beyond that, as it can also be applied to tasks like inpainting, outpainting, and image-to-image translations guided by text prompts.
+
+Stable Diffusion operates as a latent diffusion model, belonging to the category of deep generative artificial neural networks. The model’s code and weights have been made publicly available, allowing users to access and utilize it for their own applications, but unlike previous text-to-image models such as DALL-E and Midjourney, which were restricted to cloud services, Stable Diffusion can be run on consumer hardware with a modest GPU featuring at least 8 GB VRAM.
+
+So, ready to go? In today’s article, we will discover the best Stable Difussion prompts we crafted to inspire your mind and imaginative abilites to ultimately get you started.
+
+    Best Stable Diffusion prompts for painting
+        1. The Renaissance Astrounaut
+        2. The Surreal Floating Island
+        3. Impression of Japanese Serenity
+        4. Jazz in Abstract Colors
+        5. The Confluence of Pop Art
+        6. The Robotic Baroque Battle
+        7. Cubist Bustling Market
+        8. The Romantic Stormy Voyage
+        9. The Botanist in Art Nouveau
+        10. The Gothic Moonlit Castle
+    Best Stable Diffusion prompts for photography
+        1. Rainy New York Nights
+        2. The Fashion of Abandoned Places
+        3. Rainbow Dewdrops
+        4. Aerial Autumn River
+        5. Skateboarder’s Urban Flight
+        6. Dive into Coral Reefs
+        7. Vintage European Transit
+        8. Star Trails over Mountains
+        9. Marketplace Colors of Marrakech
+        10. Elegance on a Plate
+    Best Stable Diffusion prompts for digital art
+        1. Neon-Soaked Cyberpunk City
+        2. Dragon’s Stormy Perch
+        3. Reflections of Earth
+        4. After The Fall
+        5. Retro Gaming Nostalgia
+        6. Medieval Village Life
+        7. Samurai and the Mystical
+        8. Minimalistic Geometry
+        9. Alien Flora and Fauna
+        10. The Inventor’s Steampunk Workshop
+    How Do I Improve My Stable Diffusion Prompts?
+
+Best Stable Diffusion prompts for painting
+1. The Renaissance Astrounaut
+
+Combine elements from different time periods, like Renaissance art and modern space exploration. Specify the background and key features, such as a reflective helmet, to add depth. Ensure coherence between the art style and the subject.
+
+    Renaissance-style portrait of an astronaut in space, detailed starry background, reflective helmet.
+
+Renaissance Astronaut Portrait Best Stable Diffusion Prompts
+2. The Surreal Floating Island
+
+To create fantastical scenes, use an art movement like Surrealism that breaks from reality. Detail key elements (e.g., clock gears) and include diverse subjects (e.g., mythical creatures) for richness.
+
+    “Surrealist painting of a floating island with giant clock gears, populated with mythical creatures.”
+
+Surrealist Painting Best Stable Diffusion Prompts
+3. Impression of Japanese Serenity
+
+Select an art movement (Impressionism) that complements the subject (Japanese garden). Specify elements like a bridge and koi pond to create a focus and detail within the painting.
+
+    “Impressionist landscape of a Japanese garden in autumn, with a bridge over a koi pond.”
+
+4. Jazz in Abstract Colors
+
+When translating abstract concepts like music into art, choose an art style (Abstract) that allows for experimentation. Use descriptors like vibrant colors and erratic shapes to communicate the energy.
+
+    “Abstract painting representing the sound of jazz music, using vibrant colors and erratic shapes.”
+
+The Sound of Jazz Abstract Painting Best Stable Diffusion Prompts
+5. The Confluence of Pop Art
+
+To create a commentary on modern technology and classical art, use an art style like Pop Art that often addresses cultural themes. Clearly mention the juxtaposition of elements.
+
+    “Pop Art painting of a modern smartphone with classic art pieces appearing on the screen.”
+
+Pop Art Modern Woman with a Smartphone Best Stable Diffusion Prompts
+6. The Robotic Baroque Battle
+
+Mixing historical styles (Baroque) with futuristic themes (robots) can be visually striking. Ensure the grandeur and complexity typical of the art style is reflected in the elements chosen.
+
+    “Baroque-style battle scene with futuristic robots and a golden palace in the background.”
+
+Baroque Style Futuristic Robots Best Stable Diffusion Prompts
+7. Cubist Bustling Market
+
+For dynamic environments like markets, choose an art style like Cubism that can depict multiple perspectives. Describe the key elements such as people and stalls.
+
+    “Cubist painting of a bustling city market with different perspectives of people and stalls.”
+
+Cubist Painting City Market Best Stable Diffusion Prompts
+8. The Romantic Stormy Voyage
+
+Choose an art style (Romanticism) that emphasizes emotions and nature’s grandeur for scenes like storms. Specify the atmosphere and dramatic elements such as lighting and waves.
+
+    “Romantic painting of a ship sailing in a stormy sea, with dramatic lighting and powerful waves.”
+
+Romantic Paintinc of Ship Sailing Best Stable Diffusion Prompts
+9. The Botanist in Art Nouveau
+
+Pair subjects like botany with art styles like Art Nouveau, known for floral motifs. Focus on the character and the environment, and ensure they complement each other in the composition.
+
+    “Art Nouveau painting of a female botanist surrounded by exotic plants in a greenhouse.”
+
+Art Noveau Female Botanist Painting Best Stable Diffusion Prompts
+10. The Gothic Moonlit Castle
+
+For a dark, atmospheric scene like an ancient castle, use an art style like Gothic. Mention iconic elements like gargoyles and full moon to set the tone and mood of the painting.
+
+    “Gothic painting of an ancient castle at night, with a full moon, gargoyles, and shadows.”
+
+Gothic Painting Castle Best Stable Diffusion Prompts
+Best Stable Diffusion prompts for photography
+1. Rainy New York Nights
+
+Mention the mood (rainy night) and location (New York) to give context. Specify the style (black and white) and elements like reflections to focus on the atmosphere.
+
+    “Black and white street photography of a rainy night in New York, reflections on wet pavement.”
+
+Black and White Street Photography Best Stable Diffusion Prompts
+2. The Fashion of Abandoned Places
+
+Pair contrasting elements like high-fashion and an abandoned warehouse to create visual interest. Specify lighting to emphasize mood, and describe the style of clothing.
+
+    “High-fashion photography in an abandoned industrial warehouse, with dramatic lighting and edgy outfits.”
+
+Fashion Industrial Photo Best Stable Diffusion Prompts
+3. Rainbow Dewdrops
+
+Specify the type of photography (macro) and the main subject (dewdrops on a spiderweb). Mention environmental elements like morning sunlight and rainbows to set the scene.
+
+    “Macro photography of dewdrops on a spiderweb, with morning sunlight creating rainbows.”
+
+Macro Photography of Spider Web Best Stable Diffusion Prompts
+4. Aerial Autumn River
+
+State the perspective (aerial) and the main subject (winding river). Describe the environment, such as the autumn foliage, and use adjectives like vibrant to convey color.
+
+    “Aerial photography of a winding river through autumn forests, with vibrant red and orange foliage.”
+
+Aerial Photography of a River Best Stable Diffusion Prompts
+5. Skateboarder’s Urban Flight
+
+Define the subject (skateboarder) and action (mid-jump). Specify background elements (graffiti walls) and technical aspects like high shutter speed to convey the desired outcome.
+
+    “Urban portrait of a skateboarder in mid-jump, graffiti walls background, high shutter speed.”
+
+Skateboarder Fast Shot Best Stable Diffusion Prompts
+6. Dive into Coral Reefs
+
+Clearly define the environment (underwater, coral reef) and what should be included (marine life, scuba diver). Mentioning scale can give context to the size of the subjects.
+
+    “Underwater photography of a coral reef, with diverse marine life and a scuba diver for scale.”
+
+Coral Reef Underwater Best Stable Diffusion Prompts
+7. Vintage European Transit
+
+Use style descriptors (vintage) and specify the location (European train station). Mention elements like passengers and old luggage to set the time period and atmosphere.
+
+    “Vintage-style travel photography of a train station in Europe, with passengers and old luggage.”
+
+8. Star Trails over Mountains
+
+Specify technical aspects (long-exposure) and subjects (starry sky, mountain range). Mention additional elements like light trails to add depth and interest.
+
+    “Long-exposure night photography of a starry sky over a mountain range, with light trails.”
+
+9. Marketplace Colors of Marrakech
+
+State the style (documentary) and location (Marrakech marketplace) to set the context. Include key elements (spices, textiles) to capture the essence of the place.
+
+    “Documentary-style photography of a bustling marketplace in Marrakech, with spices and textiles.”
+
+Market place in Morroco Best Stable Diffusion Prompts
+10. Elegance on a Plate
+
+Specify the subject (gourmet meal) and the technical aspects like shallow depth of field. Describe presentation (elegant plating) and lighting to set the mood of the photograph.
+
+    “Food photography of a gourmet meal, with a shallow depth of field, elegant plating, and soft lighting.”
+
+Food photography Gourmet Best Stable Diffusion Prompts
+Best Stable Diffusion prompts for digital art
+1. Neon-Soaked Cyberpunk City
+
+Set the theme (Cyberpunk) and describe the environment (cityscape with skyscrapers). Include iconic elements (neon signs, flying cars) to capture the essence of the genre.
+
+    “Cyberpunk cityscape with towering skyscrapers, neon signs, and flying cars.”
+
+Cyberpunk City Best Stable Diffusion Prompts
+2. Dragon’s Stormy Perch
+
+Clearly define the genre (fantasy) and main subject (dragon). Use dynamic environmental elements (stormy sky, lightning) to create drama and mood.
+
+    “Fantasy illustration of a dragon perched on a castle, with a stormy sky and lightning in the background.”
+
+Fantasy Dragon Perched on a Castle Best Stable Diffusion Prompts
+3. Reflections of Earth
+
+Define the setting (space) and main subject (astronaut). Use details like reflection in the helmet visor to add depth and perspective.
+
+    “Digital painting of an astronaut floating in space, with a reflection of Earth in the helmet visor.”
+
+Astronaut Floating in Space Best Stable Diffusion Prompts
+4. After The Fall
+
+Specify the type (concept art) and setting (post-apocalyptic). Include elements like ruins and overgrown vegetation to set the atmosphere, and add characters for a narrative.
+
+    “Concept art for a post-apocalyptic world with ruins, overgrown vegetation, and a lone survivor.”
+
+Post Apocalyptic World with Ruins Best Stable Diffusion Prompts
+5. Retro Gaming Nostalgia
+
+Mention the art style (Pixel art) and reference nostalgia (8-bit video game character). Include action (running) and setting (retro platformer level) to convey the desired scenario.
+
+    “Pixel art of an 8-bit video game character running through a retro platformer level.”
+
+8 Bit Art Best Stable Diffusion Prompts
+6. Medieval Village Life
+
+Specify the perspective (Isometric) and the setting (medieval village). Include architectural elements (thatched roofs) and activity (market square, townsfolk) for immersion.
+
+    “Isometric digital art of a medieval village with thatched roofs, a market square, and townsfolk.”
+
+Isometric Digital art of Village Best Stable Diffusion Prompts
+7. Samurai and the Mystical
+
+Mention the style (manga) and characters (samurai warrior, mystical creature). Describe the action (duel) to create tension and excitement.
+
+    “Digital illustration in manga style of a samurai warrior in a duel against a mystical creature.”
+
+Samurai fighting Dragon Illustration Best Stable Diffusion Prompts
+8. Minimalistic Geometry
+
+State the style (minimalistic) and the subject (abstract geometric pattern). Describe the color scheme (harmonious color palette) to set the visual tone.
+
+    “A minimalistic digital artwork of an abstract geometric pattern with a harmonious color palette.”
+
+Minimalistic Geometric Work Best Stable Diffusion Prompts
+9. Alien Flora and Fauna
+
+Set the genre (Sci-fi) and describe the environment (alien landscape). Add elements like otherworldly plants and creatures for depth and imagination.
+
+    “Sci-fi digital painting of an alien landscape with otherworldly plants, strange creatures, and distant planets.”
+
+Scifi Alien Landscape Best Stable Diffusion Prompts
+10. The Inventor’s Steampunk Workshop
+
+Specify the theme (Steampunk) and setting (inventor’s workshop). Include detailed elements (machines, gears, steam engines) to capture the complexity of the genre.
+
+    “Steampunk digital art of an inventor’s workshop, with intricate machines, gears, and steam engines.”
+
+Steam Punk Inventor Room Best Stable Diffusion Prompts
+How Do I Improve My Stable Diffusion Prompts?
+
+First and foremost, it’s vital to have a curiosity for exploration. When you start using Stable Diffusion to find images, it can be overwhelming if you don’t know what you’re looking for. This is a common experience, as having too many options can make it difficult to come up with even the simplest ideas. So, don’t stress about it. Begin with easy prompts, like the one below, to get started smoothly.
+
+    A cute dog
+
+A Cute Dog Best Stable Diffusion Prompts
+
+Moving forward, a valuable tip is to consistently broaden your initial prompt. Let’s consider keeping the original concept while incorporating a fresh element.
+
+    A cute dog with a bowtie
+
+Cute Dog with a Bowtie Best Stable Diffusion Prompts
+
+Moreover, you have the option to enhance your desired outcomes by incorporating additional elements such as style, color tones, diverse lighting setups, and various other parameters. This enables you to refine and customize the results to align more closely with your preferences.
+
+    Cute Dog Typing at a Typewriter German Style
+
+Cute Dog Typing at a Typewriter Best Stable Diffusion Prompts
+
+Ultimately, the crucial element is to continuously experiment with new ideas. Here are three categories that can assist you in this process: subject, setting, action . Let’s see a short example of this.
+Random Words Play list
+
+So for example, if we combine points 2,1 and 4 we will get this prompt:
+
+    Clouds Exploding in the Desert
+
+Clouds Exploding in the Desert Best Stable Diffusion Prompts
+
+This will provide you with a fantastic foundation for delving into the world of prompts and unlocking your true creativity until you achieve the precise results you desire. The beauty of Stable Diffusion prompts lies in their evolution from simplicity to magnificence.
+
+Indeed, Stable Diffusion is a tool that is here to stay, empowering you to fearlessly unleash your imagination. I invite you to join the conversation in the comments section below and let’s initiate a discussion about your experiences.
+
+-----------------------------------------------------------------------------------------
+
+Best Stable Diffusion XL Prompts with Guaranteed Results
+Dee Miller October 30, 2023
+sdxl prompts
+
+When Stable Duffusion was released last year, it was a powerful AI image generation engine from the start. It couldn’t generate great photorealistic images, but it still was great for art. But there was this one thing that put people off it:
+
+People struggled with prompts.
+
+You see, Stable Diffusion is a text-to-image generator, and a great prompt is very important for control. Everything from style to objects on the image was controlled by text. The prompts should’ve been very precise and detailed.
+
+Today, after Stable Diffusion XL is out, the model understands prompts much better. And with the built-in styles, it’s much easier to control the output.
+
+However, a great prompt can go a long way in generating the best output. Here are the best prompts for Stable Diffusion XL collected from the community on Reddit and Discord:
+
+    📷 Photorealistic
+    ☮️ Logos
+    🏛️ Architecture
+    🧑 Portraits
+    🖼️ Interior Design
+    🤠 Character Design
+    ⛩️ Anime
+
+Stable Diffusion Prompts for Realistic Photos
+Photorealistic Soft Pink Roses Prompt
+image
+
+    Soft pink roses, white Chinese peony, tiny apple blossom flowers, eucalyptus leaves, twigs of cranberries, twigs of copper pepper berries all arrangement into a cute beautiful flowers arrangement on a pink nickel mug. The mug is sitting on a thick white book with golden cover image design. Sunny, bright image. Ad copy, huge copy space on top of the image, negative space, hd, 8k, blurry dreamy background, beautiful pictures. Product
+
+SDXL can generate images in different styles just by picking a parameter. But one style it’s particularly great in is photorealism. You can just write what you want to see, and you’ll get it.
+Photorealistic Happy Dog Prompt
+image 11
+
+    a realistic happy dog ​​playing in the grass
+
+One of the features of SDXL is its ability to understand short prompts. You can also pick the style as a prompt parameter, but it’s unnecessary if you want photorealistic images.
+Photorealistic Gas Station Prompt
+image 12
+
+    ours en peluche jaune , a restaurant is lit up at night on a rainy day, “gas station photography, cgsociety ), sad cop looking at a, by Nōami, picture of a loft in morning, dark ominous mood, petrol energy, a quaint, photo realistic symmetrical, drive out, pouring, terminal dark
+
+    Style: Cinematic
+
+Photorealistic Off Road Track Prompt
+image 13
+
+    Prompt: A highly photorealistic image of a off road race track, complete with precise replicas of the world’s most iconic heavy noun, captured at the moment of a sharp turn, with smoke and sparks flying from under the wheels and the noun drifting around the bend. The image captures the excitement of the moment, with happy and noisy fans cheering and waving in the background. (The image is depicted at dusk, with the headlights
+
+    Style: Photographic
+
+Photorealistic Grapes Prompt
+image 4
+
+    Prompt: Powerful liquid explosion, Green grapes, Green background, Commercial photography, A bright environment, Studio lighting, OC rendering, Solid color isolated platform, Professional photography, Color classification, Super detail
+
+    Style: Photographic
+
+Photorealistic Astronaut Prompt
+image 5
+
+    Prompt: Astronaut on Mars During sunset
+
+With SDXL simple prompts work great too!
+Photorealistic Locomotive Prompt
+image 6
+
+Pay attention: the prompt contains multiple lines. It’s all one prompt. Also, notice the use of negative prompts:
+
+    Prompt: A cybernatic locomotive on rainy day from the parallel universe
+    Noise: 50%
+    Style realistic
+    Strength 6.0
+
+    Negative: Bad quality, bad detail, blurry-image, jpeg artifacts, bad contrast, bad anatomy, duplicate, watermark, extra detail, chaotic distribution of objects, distortion, bad detail facial details
+
+Stable Diffusion Prompts for Logos
+Bear Logo Prompt
+image 7
+
+    Prompt: minimalistic bear shaman logo
+
+    Style: Line Art
+
+Night City Logo Prompt
+image 8
+
+    Prompt: A minimalist logo for a white t-shirt featuring a captivating and surreal cityscape during a rainy night. The logo showcases towering skyscrapers, wet pavements, and glowing city lights reflected in puddles. The scene is depicted with a sense of wonder and tranquility, using flowing lines and dreamlike elements to create a visually captivating design. The color palette is a mix of dark and intense colors, including shades of blue, purple, and
+
+Futuristic Logo Prompt
+image 9
+
+    Prompt: ”biomorfica” futuristic logo design
+
+Wolf Logo Prompt
+image 10
+
+    Prompt: Logo for a technology company,blue-green,a wolf, come to life,symmetrical,wild nature,illustration,vector art,logo design
+
+Witcher App Logo Prompt
+image 14
+
+    Prompt: logo of The Witcher Portrait for a spiritual Premium Instagram channel
+
+Youtube Channel Logo Prompt
+image 15
+
+    Prompt: Create a stylish logo for a YouTube channel with the nickname ataman, streaming the game Mobile Legends. The logo should be bright and memorable, reflect the gaming and Mobile Legends theme. Use blue, red and black colors. Place the nickname “ataman” in an original font. Add elements referring to the characters and logo of Mobile Legends. Create in the style of logos of popular gamers
+
+Stable Diffusion Prompts for Architecture
+Modern House Architecture Prompt
+image 16
+
+    Prompt: photo of a small cozy modern house in red woods on a mountain, solar panels, garage, driveway, great view, sunshine
+
+    Negative: red house
+
+Architectural Drawing Prompt
+image 17
+
+    Prompt: a architectural drawing of a new town square for Cambridge England, big traditional musuem with columns, fountain in middle, classical design, traditional design, trees
+
+Lake House Architecture Design Prompt
+image 18
+
+    Prompt: a house is reflected in the water of a lake, canon 5d mark iii photo, wlop : :, summer camp, wide shot of a cabin interior, by Henrik Weber, lush landscaping, canon 5d 50 mm lens, baris yesilbas, dramatic photograph, peacefull
+
+    Style: Photographic
+
+Chinese Architecture Prompt
+image 19
+
+    Prompt: Chinese architecture, ancient style,mountain, bird, lotus, pond, big tree,(thick paint style:1.3), (wide angle lens:1.4), (best lighting), 4K Unity, (super-detailed CG: 1.2) , (8K: 1.2), octane rendering
+
+    Style: Photographic
+
+Greek Architecture Prompts
+image 20
+
+    Prompt: exterior frontal perspective shot of resort villa inspired by Mykonos architecture, sea view visualization, white and blue colours mood, moody lighting, high quality, 8k, real, high resolution photography
+
+Fantasy Architecture Prompt
+image 21
+
+    Prompt: Build, in the style of the popular style houses of the towns of southern Spain, very rustic construction, made of stone and with whitewashed favha using white and light blue in its decoration. Stone roof. Impossible architecture. High contrast.
+
+Stable Diffusion Prompts for Portraits
+Female Fashion Model Portrait Prompt
+image 22
+
+    female fashion model, faerietale couture, styled in D&G, dynamic light
+
+    Style: Photographic
+
+Redhead Woman Smiling Portrait Prompt
+image 23
+
+    Prompt: beautiful lady, (freckles), big smile, blue eyes, short hair, dark makeup, hyperdetailed photography, soft light, head and shoulders portrait, cover
+
+    Negative prompt: (worst quality, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, grayscale, bw, bad photo, bad photography, bad art:1.4), (watermark, signature, text font, username, error, logo, words, letters, digits, autograph, trademark, name:1.2), (blur, blurry, grainy), morbid, ugly, asymmetrical, mutated malformed, mutilated, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate, (airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur:1.3), (3D ,3D Game, 3D Game Scene, 3D Character:1.1), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities:1.3)
+
+Model used: RunJuggerDiffusion
+Woman Portrait Prompt
+image 24
+
+    Prompt: android afghan girl photography by Steve McCurry in cyberpunk style,cyberpunk urban scenery,150mm,dlrs,robotic parts,beautiful neon soft light,bioluminescent tattoos,vibrant details,explicit soft mist,beautiful masterwork by head of prompt engineering
+
+    Negative prompt: (worst quality, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, grayscale, bw, bad photo, bad photography, bad art:1.4), (watermark, signature, text font, username, error, logo, words, letters, digits, autograph, trademark, name:1.2), (blur, blurry, grainy), morbid, ugly, asymmetrical, mutated malformed, mutilated, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate, (airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur:1.3), (3D ,3D Game, 3D Game Scene, 3D Character:1.1), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities:1.3)
+
+Model used: TDBaseXL
+Glamour Portrait Prompt
+image 25
+
+    Prompt: A glamour portrait of a gorgeous futuristic cyberpunk cyborg Japanese woman looking like Angelababy in style of Marcin Nagreba and Tim Flach, wearing intricate haute couture clothing, jewellery and headpiece, out of focus geometric shapes flying around, inside a futuristic building as background, dark cyan and orange tones and dramatic light, no text, sharp focus, editorial portrait
+
+Steampunk Portrait Prompt
+image 26
+
+    Prompt: steampunk makeup, in the style of vray tracing, colorful impasto, uhd image, indonesian art, fine feather details with bright red and yellow and green and pink and orange colours, intricate patterns and details, dark cyan and amber makeup. Rich colourful plumes. Victorian style.
+
+French Girl Portrait Prompt
+image 27
+
+    Prompt: Street photography photo of a stylish French girl, with short hair, capturing her reflection in a storefront while window-shopping, upper body framing, on a quaint Parisian street, with neon lighting from shop signs, shot from a high angle, on a Sony A7111, with a (bokeh effect:1.3),(in the style of Garry Winograd:1.4)
+
+Stable Diffusion Prompts for Interior Design
+Living room design prompt
+image 28
+
+    by Matt Groening,(((((Purple bookshelves)))), (((yellow radiance))) in room, (((((green couch)))), ((teal floor lamp)), side table, ((pink walls)) adorned with art, ((window)) with green landscape.
+    Style: Photographic
+
+Living Room Interior Prompt
+image 29
+
+    Prompt: photograph by Max Rive, A striking living room interior, sofa furniture, a living room table, bookshelves, shelving, a fireplace, elegant interior design, perfect layout, consistent colors, moody, hazy, cinematic, surreal, highest resolution, high detail, intricate, best quality, masterpiece, golden ratio
+
+    Style: Photographic
+
+Residential Interior Design Prompt
+image 30
+
+    Prompt: a three-seater sofa,capet,end table,west elm chandelier,armchair,residential interior design project with modrtn organic style,interior decor,crrisp lines,neutral colors,natural textures,backdrop of simplicity,aesthetic,bright environment,realistic,V-RayRenderer,superior quality
+
+Futuristic Interior Design Prompt
+image 31
+
+    Prompt: Embark on an extraordinary journey as you behold the hyper-realistic depiction of the secretive interiors of Area 51. In this captivating scene, witness the mysterious chambers, advanced technology, and clandestine activities shrouded in secrecy for decades.
+
+Green Interior Design Prompt
+image 32
+
+    Prompt: shin-hanga, neon green by Max Ernst, by Yinka Shonibare, by Rimel Neffati Sigma 85mm f/1.4. Photograph. Interior shot of a room where Craftsman design intertwines with uncanny floral patterns, Baroque furniture warping & bending, revealing a vista of a tranquil, fractal marshland outside the window.
+
+    Negative: ugly, tiling, out of frame, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted, drawing, etching, print, cartoon, render
+
+Stable Diffusion Prompts for Characters
+Ron Swanson as an Earthbender Character Prompt
+image 33
+
+    ron swanson as an earthbender
+    Style: Fantasy Art
+
+Cat Woman Character Prompt
+image 34
+
+    Prompt: a high quality cinematic scene of a Catwoman, circular pupils, round iris, dark wavy hair, filmed on Sony A7iii, 50mm, f/2.8, film director James Cameron , craig mullins, sergio toppi, beksinski, jeremy mann, influenced by pre-raphaellite, red yellow black, magic realism
+
+Superman Character Prompt
+image 35
+
+    Prompt: elaborated detailed 8k image of Superman as a malevolent evil god seated on a glowing sapphire crystal throne amidst alien Kryptonian architecture in his Arctic Fortress of Solitude. He has burning red eyes and wields a crystal scepter granting cosmic power.
+
+Alien Monster Dragon Character Prompt
+image 36
+
+    Prompt: xenoblade landscape, flying alien monstrous beasts inspired by peter mohrbacher, golden hour, hypersharp ue5 photorealistic details, cinematic HDR SSAO RTX, 4k 8k 16k gigapixel render
+
+    Style: Cinematic
+
+Bulbasaur Character Prompt
+image 37
+
+    Prompt: movie still of Bulbasaur as a gladiator wearing an armor in a big crowded roman coliseum, haze air, cinematic coulometry, hyperrealism, low saturation
+
+Stable Diffusion Anime Prompts
+
+One of the featured styles that SDXL can easily generate by using a simple parameter is anime style images. Here are several examples of SDXL generated images in the anime style:
+Ron Swanson Samurai Prompt
+image 38
+
+The prompt is literally just “Ron Swanson as Samurai”.
+Moroccan Officer
+image 39
+
+moroccan fascist officer next to his motorbike,robot horse,scifi,military uniform,1940,wolfenstein universe, epic scene
+image 40
+
+Landscape, night, solar eclipse, disappearance, special aura, detailed, chaotic drawing style
+image 41
+
+An illustration of a majestic tiger breathing fire, utilizing the zoom-out feature of an AI to gradually reveal the full composition. Capture the intensity and power of the tiger’s fiery breath in a visually captivating manner. Portray the tiger with a combination of strength and ferocity, emphasizing its piercing gaze, sharp teeth, and powerful stance. Utilize the zoom-out feature to gradually reveal the entire illustration.
+image 42
+
+one piece luffy in gear 5, Straw hat, fully defined facial features of luffy, mouth shut, neon aura, red neon lightnings and thunders, clouds tearing apart, ground shattering, ethereal portraiture, tonalist, color scheme, pensive stillness, dark aquamarine and red, rainy night, ray tracing, high reflection, dramatic lighting, intricate details, photo realism
+
